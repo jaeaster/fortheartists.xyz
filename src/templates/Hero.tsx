@@ -12,13 +12,8 @@ const Hero = () => (
     <Section yPadding="py-6">
       <NavbarTwoColumns logo={<Logo xl />}>
         <li>
-          <Link href="https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template">
-            <a>GitHub</a>
-          </Link>
-        </li>
-        <li>
-          <Link href="/">
-            <a>Sign in</a>
+          <Link href="">
+            <a>About</a>
           </Link>
         </li>
       </NavbarTwoColumns>
@@ -32,11 +27,11 @@ const Hero = () => (
             <span className="text-primary-500">Artists</span>
           </>
         }
-        description="Get help with contracts, exhibitions, social media and more."
+        description="Get help to advance your career!"
         button={
-          <Link href="https://creativedesignsguru.com/category/nextjs/">
+          <Link href="mailto:hello@fortheartists.xyz?subject=I Need Help With ...">
             <a>
-              <Button xl>Contact Me</Button>
+              <Button xl>Contact</Button>
             </a>
           </Link>
         }
