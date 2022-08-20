@@ -4,6 +4,7 @@ import { Section } from '../layout/Section';
 const VerticalFeatures = () => (
   <Section
     title="Services"
+    id="services"
     descriptionComponent={() => (
       <>
         {'Get help with '}

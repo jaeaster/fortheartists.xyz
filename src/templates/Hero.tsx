@@ -16,6 +16,11 @@ const Hero = () => (
             <a>About</a>
           </Link>
         </li>
+        <li>
+          <Link href="#services">
+            <a>Services</a>
+          </Link>
+        </li>
       </NavbarTwoColumns>
     </Section>
 
@@ -23,7 +28,8 @@ const Hero = () => (
       <HeroOneButton
         title={
           <>
-            {'Complementary Consulting for\n'}
+            {'Complementary\n'}
+            {'Consultancy for\n'}
             <span className="text-primary-500">Artists</span>
           </>
         }
