@@ -6,7 +6,7 @@ type ISectionProps = {
   descriptionComponent?: React.FC;
   yPadding?: string;
   id?: string;
-  children: ReactNode;
+  children?: ReactNode;
 };
 
 const Section = (props: ISectionProps) => (
