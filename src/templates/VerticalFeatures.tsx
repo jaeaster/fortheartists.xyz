@@ -28,20 +28,20 @@ const VerticalFeatures = () => (
   >
     <VerticalFeatureRow
       title="Networking and Collaborations"
-      description="Building meaningful connections in the art industry is crucial for artists and often results in successful collaborations. As part of its complimentary advisory services, For The Artists organizes the introductions to best contacts for each artist according to their needs."
+      description="Building meaningful connections in the art industry is crucial for artists and often results in successful collaborations. As part of its complimentary advisory services, For The Artists organizes introductions to best contacts for each artist according to their needs."
       image="/assets/images/feature.svg"
       imageAlt="First feature alt text"
     />
     <VerticalFeatureRow
       title="Legal Contracts and Agreements"
-      description="Law is an integral part of the art industry that can often sound scary for artists. With a solid international background in intellectual property and art law, For The Artist is happy to review consignments, sales contracts, agency agreements or any other legal document for the artists while advising on issues like import/export taxes."
+      description="Law is an integral part of the art industry that can often sound scary for artists. With a solid international background in intellectual property and art law, For The Artists is happy to review consignments, sales contracts, agency agreements or any other legal document while advising on issues like import/export taxes."
       image="/assets/images/feature2.svg"
       imageAlt="Second feature alt text"
       reverse
     />
     <VerticalFeatureRow
       title="Social Media"
-      description="In 2020, 87 percent of art buyers surveyed have claimed to use Instagram to find new artists, whereas 48 percent of respondents stated the same in 2016. The number keeps growing in 2022. For The Artist offers to oversee the social media accounts, especially Instagram pages for artists to generate sales and maintain a consistent social portfolio."
+      description="In 2020, 87 percent of art buyers surveyed have claimed to use Instagram to find new artists, whereas 48 percent of respondents stated the same in 2016. The number keeps growing in 2022. For The Artists offers to oversee the social media accounts, especially Instagram pages for artists to generate sales and maintain a consistent social portfolio."
       image="/assets/images/feature3.svg"
       imageAlt="Third feature alt text"
     />
