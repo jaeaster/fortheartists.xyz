@@ -28,7 +28,7 @@ const Hero = () => (
       <HeroOneButton
         title={
           <>
-            {'Complementary\n'}
+            {'Complimentary\n'}
             {'Consultancy for\n'}
             <span className="text-primary-500">Artists</span>
           </>
